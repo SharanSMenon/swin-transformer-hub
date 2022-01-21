@@ -1,3 +1,5 @@
+dependencies = ['torch', "timm"]
+
 import torch
 import swin
 
